@@ -5,7 +5,7 @@ A simple and clean **To-Do List** built using **HTML, CSS, and JavaScript**.
 This project allows users to add, mark, and delete tasks dynamically in the browser.
 
 ---
-![Getting Started](./image.png)
+
 ## 🚀 Features
 
 - Add new tasks dynamically  
@@ -41,7 +41,7 @@ To-Do-List/
 
 ## 📸 Preview
 
-![To-Do List Screenshot](./screenshot.png)
+![Getting Started](./image.png)
 
 ---
 
